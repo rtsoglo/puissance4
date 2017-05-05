@@ -1,3 +1,3 @@
-# clone du jeu puissance 4
-# Telecharger le code source ou le fichier .jar pour jouer
+# Connect Four Game
+# Download .jar file to play it (platform independent)
 # Have fun !
