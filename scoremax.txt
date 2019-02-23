@@ -1,0 +1,5 @@
+ 
+Joueur 1 vs Joueur 2 
+Nombre de Colonne : 6 
+Nombre de Ligne :7 
+ Score  : 14

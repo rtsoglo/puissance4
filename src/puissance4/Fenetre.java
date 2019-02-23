@@ -1,19 +1,13 @@
 package puissance4;
 
-
-	import java.awt.FlowLayout;
+import java.awt.FlowLayout;
 import java.awt.event.ActionEvent;
-
-	import java.awt.event.ActionListener;
-
-	import javax.swing.JButton;
-
-	import javax.swing.JFrame;
-
-	import javax.swing.JOptionPane;
+import java.awt.event.ActionListener;
+import javax.swing.JButton;
+import javax.swing.JFrame;
 
 
-	public class Fenetre extends JFrame {
+public class Fenetre extends JFrame {
 
 	  private JButton bouton = new JButton("Appel à la ZDialog");
 
@@ -38,7 +32,7 @@ import java.awt.event.ActionEvent;
 
 	        ZDialog zd = new ZDialog(null, "Puissance 4 Initialisation", true);
 
-	        ZDialogInfo zInfo = zd.showZDialog(); 
+	        ZDialogInfo zInfo = zd.showZDialog();
 
 	       // JOptionPane jop = new JOptionPane();
 

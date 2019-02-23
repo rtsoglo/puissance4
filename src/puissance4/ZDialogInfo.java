@@ -53,9 +53,7 @@ public class ZDialogInfo extends Observable {
 	public int getNb_joueur() {
 		return Integer.parseInt(nb_joueur);
 	}
-	
-		
-		
+
 		
 	}
 

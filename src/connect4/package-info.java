@@ -5,4 +5,4 @@
  * @author sogloarcadius
  *
  */
-package puissance4;
+package Puissance4;
