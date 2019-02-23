@@ -13,6 +13,7 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
+import javax.swing.WindowConstants;
 
 public class ZDialog extends JDialog {
 	
@@ -27,7 +28,7 @@ public class ZDialog extends JDialog {
 		this.setSize(550, 270);
 		this.setLocationRelativeTo(null);
 		this.setResizable(false);
-		this.setDefaultCloseOperation(JDialog.DO_NOTHING_ON_CLOSE);
+		this.setDefaultCloseOperation(WindowConstants.DO_NOTHING_ON_CLOSE);
 		this.initComponent();
 		
 	}	

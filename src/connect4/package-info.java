@@ -5,4 +5,4 @@
  * @author sogloarcadius
  *
  */
-package Puissance4;
+package connect4;

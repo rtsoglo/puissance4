@@ -53,7 +53,7 @@ public class Game_View extends JFrame implements MouseListener,  WindowListener{
 		
 		game_panel.add(pane, "Center");
 		
-		statusBar = new JLabel(jeu.opts.getJoueur1(), JLabel.LEFT);
+		statusBar = new JLabel(jeu.opts.getJoueur1(), SwingConstants.LEFT);
 		
 		
 		game_panel.add(statusBar, "South");
