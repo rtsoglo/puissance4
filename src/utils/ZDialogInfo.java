@@ -1,4 +1,4 @@
-package puissance4;
+package utils;
 
 import java.util.Observable;
 

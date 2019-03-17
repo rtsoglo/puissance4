@@ -1,4 +1,4 @@
-package puissance4;
+package utils;
 
 import java.awt.FlowLayout;
 import java.awt.event.ActionEvent;
